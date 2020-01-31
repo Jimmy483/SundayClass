@@ -3,7 +3,7 @@ package com.example.sundayclass.model;
 public class Employee {
     private int id;
     private String employee_name;
-    private float employee_salary;
+    private Float employee_salary;
     private int employee_age;
 
     public Employee(int id, String employee_name, Float employee_salary, int employee_age) {
